@@ -4,7 +4,11 @@
 Gain a practical understanding of HTML5 sectioning elements and their usage in creating well-structured web pages.
 
 ## Instructions:
-1. Read the article titled "Use HTML5 Sectioning Elements" available at the following [link](https://blog.teamtreehouse.com/use-html5-sectioning-elements).
+
+1. Fork and clone this repo to your local machine.
+
+
+3. Read the article titled "Use HTML5 Sectioning Elements" available at the following [link](https://blog.teamtreehouse.com/use-html5-sectioning-elements).
 
 2. Familiarize yourself with the concept and purpose of HTML5 sectioning elements, such as `<header>`, `<nav>`, `<article>`, `<section>`, `<aside>`, and `<footer>`. Understand how they contribute to creating a logical structure within web pages.
 
